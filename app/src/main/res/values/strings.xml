@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">juliana</string>
+    <string name="title_activity_layout2">LayoutActivity2</string>
+    <string name="title_activity_intent2">IntentActivity2</string>
+</resources>
